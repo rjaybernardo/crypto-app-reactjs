@@ -1,3 +1,4 @@
+import CoinItem from './../CoinItem/index'
 import './styles.css'
 
 const Coins = (props) => {
@@ -12,6 +13,9 @@ const Coins = (props) => {
           <p className='hide-mobile'>Volume</p>
           <p className='hide-mobile'>Mkt Cap</p>
         </div>
+        {props.coins.map((coins) => {
+          return <CoinItem coins={coins} key={coins.id} />
+        })}
       </div>
     </div>
   )
