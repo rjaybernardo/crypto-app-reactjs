@@ -7,6 +7,7 @@
 - install axios
 - install google fonts
 - install react icons
+- useParams hook
 
 API -www.coingecko.com
 
@@ -17,3 +18,9 @@ API -www.coingecko.com
 Add route and pages
 
 - install react router dom
+
+Coin gecko
+
+- /coins/{id}
+
+- install dompurify

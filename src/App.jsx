@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom'
 import axios from 'axios'
 import Coins from './components/Coins'
 import Coin from './routes/Coin'
-import Navbar from './components/Navbar/index'
+import Navbar from './components/Navbar'
 
 function App() {
   const [coins, setCoins] = useState([])
@@ -16,7 +16,7 @@ function App() {
       .get(url)
       .then((res) => {
         setCoins(res.data)
-        console.log(res.data[0])
+        // console.log(res.data[0])
       })
       .catch((error) => {
         console.log(error)
