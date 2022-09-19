@@ -1,5 +1,17 @@
 # Crypto App React - vitejs
 
+![](public/Screenshots/screenshot1.PNG)
+![](public/Screenshots/screenshot2.PNG)
+
+### Mobile View
+
+<p align="center">
+<img  width="300" src="public/Screenshots/screenshot3.PNG">
+</p>
+<p align="center">
+<img  width="300" src="public/Screenshots/screenshot4.PNG">
+</p>
+
 - useState and useEffect hook to interact with the API
 - react router dom v6
 - dynamic data
