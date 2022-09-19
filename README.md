@@ -4,7 +4,9 @@
 - react router dom v6
 - dynamic data
 - fetch external API
-- axios
+- install axios
+- install google fonts
+- install react icons
 
 API -www.coingecko.com
 
