@@ -13,3 +13,7 @@ API -www.coingecko.com
 - Go to Products > Crypto API
 - /coins/markets
 - 10 per page
+
+Add route and pages
+
+- install react router dom
