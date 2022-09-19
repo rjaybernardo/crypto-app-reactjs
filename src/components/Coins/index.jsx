@@ -1,3 +1,5 @@
+import './styles.css'
+
 const Coins = (props) => {
   return (
     <div className='container'>
