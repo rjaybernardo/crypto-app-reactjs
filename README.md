@@ -1,15 +1,15 @@
 # Crypto App React - vitejs
 
-![](public/Screenshots/screenshot1.PNG)
-![](public/Screenshots/screenshot2.PNG)
+![](./Screenshots/screenshot1.PNG)
+![](./Screenshots/screenshot2.PNG)
 
 ### Mobile View
 
 <p align="center">
-<img  width="300" src="public/Screenshots/screenshot3.PNG">
+<img  width="300" src="./Screenshots/screenshot3.PNG">
 </p>
 <p align="center">
-<img  width="300" src="public/Screenshots/screenshot4.PNG">
+<img  width="300" src="./Screenshots/screenshot4.PNG">
 </p>
 
 - useState and useEffect hook to interact with the API
