@@ -1,5 +1,14 @@
 # Crypto App React - vitejs
 
+Demo site is [Crypto App](https://mellow-smakager-4f111e.netlify.app/)
+
+- A ReactJS application based around cryptocurrencies.
+- Sample application of react hooks useState and useEffect 
+- Use of Axios to interact with the Coin Gecko API.
+- Use of React Router Dom v6 to have dynamic routes.
+- useParams, DOMpurify
+- upload demo app to netlify
+
 ![](./Screenshots/screenshot1.PNG)
 ![](./Screenshots/screenshot2.PNG)
 
